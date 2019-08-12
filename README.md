@@ -1,7 +1,7 @@
 # Web Template za XnView
 
 
-Prerađeni izvorni XnView šablon za lične potrebe.
+Prerađeni izvorni XnView “Visuddhi – Lightbox” šablon za lične potrebe.
 
 XnView možete preuzeti sa [matičnog sajta](https://www.xnview.com/en/xnview/).
 
