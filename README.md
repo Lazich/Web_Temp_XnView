@@ -3,7 +3,7 @@
 
 Prerađeni izvorni XnView šablon za lične potrebe.
 
-XnView možete preuzeti sa [matičnog sajta](https://www.xnview.com/en/xnview/) .
+XnView možete preuzeti sa [matičnog sajta](https://www.xnview.com/en/xnview/).
 
 Izgled prerađenog šablona:
 
