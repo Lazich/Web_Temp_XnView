@@ -5,7 +5,7 @@ Prerađeni izvorni XnView šablon za lične potrebe.
 
 XnView možete preuzeti sa [matičnog sajta](https://www.xnview.com/en/xnview/) .
 
-*Izgled prerađenog šablona*
+Izgled prerađenog šablona:
 
 ![IDP na Free Design Group](https://github.com/Lazich/Web_Temp_XnView/blob/master/img/template-view.png)
 
@@ -16,5 +16,6 @@ Prekopirajte folder **"Lazich - Lightbox-belo"** u **XnView/WebTemplate**, zatim
 Izaberite fotografije, pa iz menia izaberite **Create > Web page (Ctrl+G)**, izaberite template i popunite prazna polja...
 
 Šablon se može preuzeti i sa  [BoxNet XnView Template](https://app.box.com/s/d01nkqrhq31qdn2lekyk2e1of83g50ui)
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
