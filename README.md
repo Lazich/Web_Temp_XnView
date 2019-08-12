@@ -1,6 +1,5 @@
 # Web Template za XnView
 
----
 
 Prerađeni izvorni XnView šablon za lične potrebe.
 
@@ -8,7 +7,7 @@ XnView možete preuzeti sa [matičnog sajta](https://www.xnview.com/en/xnview/) 
 
 *Izgled prerađenog šablona*
 
-![IDP na Free Design Group](https://github.com/Lazich/Web_Temp_XnView/blob/master/img/template-view.jpg)
+![IDP na Free Design Group](https://github.com/Lazich/Web_Temp_XnView/blob/master/img/template-view.png)
 
 ili direktno na webu [Pixel SMS Art](https://lazich.info/2003_2015/pixel_sms_art/index.html)
 
